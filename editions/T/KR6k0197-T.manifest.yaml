@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0197/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0197/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘六情懺悔
+  identifiers:
+    krp: KR6k0197
+    cbeta: T45n1908
+    cbeta_old_id: T45n1908
+    authorityid: CA0002097
+    json_key: T1908
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1908.xml
+    old_id: T45n1908
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0197_000-T.yaml, hash: 'sha256:489ac8a55cfc7d84ae7153bc5353ebb81a639f810e804b9bbb0cd47686fd45dd'}
+  - {seq: 1, filename: KR6k0197_001-T.yaml, hash: 'sha256:646d3eef6b2e3c9d63665f2d064db4b0d1c5eb9cee8307ea7feb2e5a1be8d8ec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0197_000-T.markers.yaml, hash: 'sha256:2e573dc8417f7463f10059e125145988bed53ec987c267018dfd8b7467d5da91'}
+  - {seq: 1, role: markers, filename: assets/KR6k0197_001-T.markers.yaml, hash: 'sha256:668ebd72717ac674975a8bdd55c2dfffb2eb97e110df581e567f20a1eb369b14'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0197_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1083
+  label: 大乘六情懺悔
+  type: juan
+  level: 1
+hash: sha256:b940a751c607f2b3dfc6e0dbc1b88117d42b9268d494ff7017a1a5d7466cef3c

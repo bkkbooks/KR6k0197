@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0197/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘六情懺悔
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1908.xml
+    old_id: T45n1908
+hash: sha256:489ac8a55cfc7d84ae7153bc5353ebb81a639f810e804b9bbb0cd47686fd45dd
