@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0197_000.yaml, hash: 'sha256:489ac8a55cfc7d84ae7153bc5353ebb81a639f810e804b9bbb0cd47686fd45dd'}
-  - {seq: 1, filename: KR6k0197_001.yaml, hash: 'sha256:416b7692a3e02a6ea9532f9a6263a86ae9a2cdc0a69e81873a86c68f3f530482'}
+  - {seq: 1, filename: KR6k0197_001.yaml, hash: 'sha256:646d3eef6b2e3c9d63665f2d064db4b0d1c5eb9cee8307ea7feb2e5a1be8d8ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0197_001.markers.yaml, hash: 'sha256:7b07b8ece926a815f1107f9110c6f755e41a3014b308069b3064501f646d311a'}
+  - {seq: 0, role: markers, filename: assets/KR6k0197_000.markers.yaml, hash: 'sha256:2934adafcfcf3716f47ecacc3d92523d32348f1102d64dbd66b245e99c7e07eb'}
+  - {seq: 1, role: markers, filename: assets/KR6k0197_001.markers.yaml, hash: 'sha256:ffe46d578621baa7c1d752c8215a60e3dc161026cdabc7fd77500040ffc84779'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大乘六情懺悔
   type: juan
   level: 1
-hash: sha256:9049668ca53f41201e27a133c432371eac29e4796799d1887f96d3e0e88450dd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:74c68c48dba1cc0ebe6c7f469d5182e40026fd25d6448a6f2c136d720acb193d
